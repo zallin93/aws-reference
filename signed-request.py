@@ -1,3 +1,5 @@
+# OG reference: https://github.com/boto/botocore/issues/1784
+
 import boto3
 from botocore.auth import SigV4Auth
 from botocore.awsrequest import AWSRequest
